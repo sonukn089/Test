@@ -17,7 +17,7 @@ class Acceleration{
             System.out.print(" Please input the time : ");
 
             float t = input.nextFloa();
-
+            // Add Comment
             double a = ( v1 - v0 ) / t ;
 
             System.out.print(" Your acceleration is : " + a );
